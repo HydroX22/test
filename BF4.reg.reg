@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\EA Games\Battlefield 4\Xpack0]
+"Installed"="true"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\EA Games\Battlefield 4\Xpack1]
+"Installed"="true"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\EA Games\Battlefield 4\Xpack2]
+"Installed"="true" 
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\EA Games\Battlefield 4\Xpack3]
+"Installed"="true" 
